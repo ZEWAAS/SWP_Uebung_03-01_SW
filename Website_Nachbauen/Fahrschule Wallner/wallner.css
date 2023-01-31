@@ -79,6 +79,12 @@ button{
     width: 7rem;
 }
 
+button :hover{
+    background-color: white;
+    color: #d42725;
+    border: #A31715;
+}
+
 .main{
     display: flex;
     justify-content: space-around;
