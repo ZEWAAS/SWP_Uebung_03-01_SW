@@ -79,10 +79,10 @@ button{
     width: 7rem;
 }
 
-button :hover{
-    background-color: white;
+p :hover{
+    background-color: transparent;
     color: #d42725;
-    border: #A31715;
+    border: 1px solid #d42725;
 }
 
 .main{
